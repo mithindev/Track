@@ -1,0 +1,25 @@
+.footer-bottom {
+  background-color: #e5e5e5;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.footer-bottom p {
+  color: #666666;
+  font-size: 12px;
+  margin: 0;
+}
+
+footer {
+  flex-shrink: 0;
+}
+
+.footer-bottom {
+  background-color: #e5e5e5;
+  padding: 10px 0;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
